@@ -1,0 +1,15 @@
+{
+	"name": "can-boilerplate",
+	"devDependencies": {
+		"bootstrap": "3.1.1",
+		"canjs": "2.1.1",
+		"jquery": "2.1.1",
+		"requirejs": "2.1.11",
+		"require-less": "0.1.2",
+		"require-css": "0.1.2",
+		"require-text": "https://github.com/requirejs/text.git",
+		"faker": "https://github.com/Marak/Faker.js.git",
+		"qunit": "1.15.0",
+		"funcunit": "2.1.0-pre"
+	}
+}
